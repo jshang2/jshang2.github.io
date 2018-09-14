@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Jin Shang
+
+~~~
+{}{img_left}{photos/bio.jpeg}{alt text}{244.8px}{230.1px}
+[https://jshang2.github.io Jin Shang], Ph.D. Student \n 
+[https://www.lsu.edu/eng/cse/ Division of Computer Science and Engineering] \n
+[https://www.lsu.edu/ Louisiana State University] \n
+Advisor: [http://csc.lsu.edu/~msun/ Prof. Mingxuan Sun] \n
+Email: jshang2@lsu.edu \n
+\[[https://scholar.google.com/citations?user=CIfBuzcAAAAJ&hl=en Google Scholar]\]\[[CV.pdf Curriculem Vitae]\] \n
+~~~
+
+== News 
+- \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" accepted by ICDM'18!
+- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" accepted by ICDM'18!
+
+== Education 
+- Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Present
+- M.S. in Solid Mechanics, University of Science and Technology of China, Sept. 2013 - Jun. 2016
+- B.S. in Theoretical and Applied Mechanics, University of Science and Technology of China, Sept. 2009 - Jun. 2013
+
+== Research Interests 
+- Statistical Machine Learning 
+- Deep Learning 
+- Information Retrieval
+- Recommender System
+- Optimization 
