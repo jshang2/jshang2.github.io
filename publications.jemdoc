@@ -2,10 +2,12 @@
 == Publications 
 
 === Conference
-- [pubs/local-low-rank.pdf Local low-rank Hawkes processes for temporal user-item interactions] (regular paper, acceptance rate: 84/948=8.86\%) \n
+- [pubs/local-low-rank.pdf Local low-rank Hawkes processes for temporal user-item interactions] \n
+#(regular paper, acceptance rate: 84/948=8.86\%) \n
 *Jin Shang*, and Mingxuan Sun \n
 to appear in Proc. of the IEEE International Conference on Data Mining (ICDM), Singapore, Nov. 2018.
-- [pubs/crossdemo.pdf Demographic inference via knowledge transfer in cross-domain recommender systems] (short paper, acceptance rate: 189/948=19.94\%) \n
+- [pubs/crossdemo.pdf Demographic inference via knowledge transfer in cross-domain recommender systems] \n
+#(short paper, acceptance rate: 189/948=19.94\%) \n
 *Jin Shang*, Mingxuan Sun, and Kevyn Collins-Thompson \n
 to appear in Proc. of the IEEE International Conference on Data Mining (ICDM), Singapore, Nov. 2018.
 === Journal
