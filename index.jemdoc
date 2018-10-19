@@ -6,7 +6,7 @@
 [https://jshang2.github.io Jin Shang], Ph.D. Student \n 
 [https://www.lsu.edu/eng/cse/ Division of Computer Science and Engineering] \n
 [https://www.lsu.edu/ Louisiana State University] \n
-Advisor: [http://csc.lsu.edu/~msun/ Prof. Mingxuan Sun] \n
+Advisor: Prof. [http://csc.lsu.edu/~msun/ Mingxuan Sun] \n
 Email: jshang2@lsu.edu \n
 \[[https://scholar.google.com/citations?user=CIfBuzcAAAAJ&hl=en Google Scholar]\]\[[CV.pdf Curriculem Vitae]\] \n
 ~~~
@@ -14,6 +14,9 @@ Email: jshang2@lsu.edu \n
 == News 
 - \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" accepted by ICDM'18!
 - \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" accepted by ICDM'18!
+
+== About me
+I am a third-year Ph.D. student in the Division of Computer Science and Engineering at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on machine learning models and scalable algorithms for statistical analysis of users’ temporal behaviors and demographics. Specifically, I work in the area of temporal point processes and recommender systems. Important applications of my work include tracking users’ demographics and recommending the correct items to users at a proper time.
 
 == Education 
 - Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Present
