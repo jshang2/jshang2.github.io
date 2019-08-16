@@ -17,12 +17,13 @@ Email: jshang2@lsu.edu \n
 at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
 
 == News
+- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for temporal user-item interactions" accepted by Knowledge and Information Systems(KAIS)!
 - \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" accepted by AAAI'19! 
 - \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" accepted by ICDM'18!
 - \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" accepted by ICDM'18!
 
 == About me
-I am a third-year Ph.D. student in the Division of Computer Science and Engineering at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on machine learning models and scalable algorithms for statistical analysis of users’ temporal behaviors and demographics. Specifically, I work in the area of temporal point processes and recommender systems. Important applications of my work include tracking users’ demographics and recommending the correct items to users at a proper time.
+I am a fourth-year Ph.D. student in the Division of Computer Science and Engineering at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, and natural language processing.
 
 == Education 
 - Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Present
