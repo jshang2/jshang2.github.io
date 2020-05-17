@@ -1,9 +1,9 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-== Jin Shang | PhD Student @ Louisiana State University
+== Jin Shang | Ph.D. student @ Louisiana State University
 
 ~~~
 {}{img_left}{photos/bio4.jpeg}{alt text}{320px}{240px}
-[https://jshang2.github.io Jin Shang], Ph.D. Student \n 
+[https://jshang2.github.io Jin Shang], Ph.D. student \n 
 [https://www.lsu.edu/eng/cse/ Division of Computer Science and Engineering] \n
 [https://www.lsu.edu/ Louisiana State University] \n
 Advisor: Prof. [http://csc.lsu.edu/~msun/ Mingxuan Sun] \n
@@ -17,16 +17,18 @@ Email: jshang2@lsu.edu \n
 at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
 
 == News
-- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" accepted by Knowledge and Information Systems(KAIS)!
-- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" accepted by AAAI'19! 
-- \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" accepted by ICDM'18!
-- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" accepted by ICDM'18!
+- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
+- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
+- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
+- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 
+- \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" is accepted by ICDM'18!
+- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
 
 == About me
 I am a fourth-year Ph.D. student in the Division of Computer Science and Engineering at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, and natural language processing.
 
 == Education 
-- Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Present
+- Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Aug. 2020
 - M.S. in Solid Mechanics, University of Science and Technology of China, Sept. 2013 - Jun. 2016
 - B.S. in Theoretical and Applied Mechanics, University of Science and Technology of China, Sept. 2009 - Jun. 2013
 
