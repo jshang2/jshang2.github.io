@@ -1,11 +1,13 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-== Jin Shang | Ph.D.
+#== Jin Shang | Ph.D.
+== Jin Shang
 
 ~~~
 {}{img_left}{photos/bio6.png}{alt text}{185px}{239px}
 [https://jshang2.github.io Jin Shang], Ph.D. \n 
+Senior Engineer at [https://www.us1.dgene.com/ DGene] \n
 \n
-Email: astrostell@gmail.com \n
+Email: jin.shang@dgene.com \n
 \[[https://scholar.google.com/citations?user=CIfBuzcAAAAJ&hl=en Google Scholar]\]\[[CV.pdf Curriculem Vitae]\] \n
 ~~~
 
@@ -23,7 +25,7 @@ at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
 #- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
 
 == About me
-I'm working at [https://www.us1.dgene.com/ DGene Inc.] as a senior engineer. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, and natural language processing.
+I'm currently working at [https://www.us1.dgene.com/ DGene] as a senior engineer. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, and natural language processing.
 
 == Education 
 - Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Aug. 2020
