@@ -8,7 +8,7 @@ Present a efficient method for gate hair removal in the film, combining deep lea
 
 - Postdoc at [https://www.us1.dgene.com/ DGene Inc.], Baton Rouge, LA, Sept 2020 - March 2021 \n
 1. Image Segmentation: \n
-Present a novel foreground segmentation method with high degree of accuracy for mask generation in 3D reconstruction, combining deep learning and traditional techniques such as joint bilateral up-sampling(JBU). *PyTorch* implementation for training and *LibTorch* implementation for testing. Achieving fast speed with high resolution output by CUDA programming in application. \n
+Present a novel foreground segmentation method with high degree of accuracy for mask generation in 3D reconstruction, combining deep learning and traditional techniques such as joint bilateral up-sampling(JBU). PyTorch implementation for training and LibTorch implementation for testing. Achieving fast speed with high resolution output by CUDA programming in application. \n
 2. Non-rigid Registration: \n
 Working on non-rigid registration for continues meshes. Considering several energy terms such as rigid, non-rigid, smooth, local and temporal based on the traditional Iterative Closest Point(ICP) method. Using Levenberg-Marquardt algorithm for fast optimization.s
 
