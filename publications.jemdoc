@@ -2,27 +2,27 @@
 == Publications 
 
 === Conference
-- [pubs/list-wise.pdf List-wise fairness criterion for point processes] \[[https://github.com/jshang2/List-wise Code]\] \n
+- [https://dl.acm.org/doi/10.1145/3394486.3403246 List-wise fairness criterion for point processes] \[[https://github.com/jshang2/List-wise Code]\] \n
 (research full paper, acceptance rate: 216/1279=16.89\%) \n
 *Jin Shang*, Mingxuan Sun, and Nina S. N. Lam \n
 in Proc. of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), San Diego, USA, Aug. 2020.
-- [pubs/geo.pdf Geometric Hawkes processes with graph convolutional recurrent neural networks] \[[pubs/GeometricHawkes.pdf Detailed Version]\] \n
+- [https://ojs.aaai.org//index.php/AAAI/article/view/4416 Geometric Hawkes processes with graph convolutional recurrent neural networks] \n #\[[pubs/GeometricHawkes.pdf Detailed Version]\] \n
 (acceptance rate: 1150/7095=16.21\%) \n
 *Jin Shang*, and Mingxuan Sun \n
 in Proc. of the AAAI Conference on Artificial Intelligence (AAAI), Hawaii, USA, Jan. 2019.
-- [pubs/local-low-rank.pdf Local low-rank Hawkes processes for temporal user-item interactions] \n
+- [https://ieeexplore.ieee.org/document/8594867 Local low-rank Hawkes processes for temporal user-item interactions] \n
 (regular paper, acceptance rate: 84/948=8.86\%) \n
 *Jin Shang*, and Mingxuan Sun \n
 in Proc. of the IEEE International Conference on Data Mining (ICDM), Singapore, Nov. 2018.
-- [pubs/crossdemo.pdf Demographic inference via knowledge transfer in cross-domain recommender systems] \[[pubs/crossDemoFull.pdf Full Version Submitted]\] \n
+- [https://ieeexplore.ieee.org/document/8594971 Demographic inference via knowledge transfer in cross-domain recommender systems] \n #\[[pubs/crossDemoFull.pdf Full Version Submitted]\] \n
 (short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
 *Jin Shang*, Mingxuan Sun, and Kevyn Collins-Thompson \n
 in Proc. of the IEEE International Conference on Data Mining (ICDM), Singapore, Nov. 2018.
 === Journal
-- [https://link.springer.com/epdf/10.1007/s10115-019-01379-6?author_access_token=s_nsMmaalPrdXl_TOVnRvPe4RwlQNchNByi7wbcMAY5AKah_lrhoWQI_BWqaN1rdy485EoRHGCUV0XgpZKHYKnv9xw6wKjb9TKLudFy8YJN97SZc5Wk21ulu7kVceZPdNOcLNvsjTEu3D0Z7_GL_eQ%3D%3D Local low-rank Hawkes processes for modeling temporal user-item interactions] \n
+- [https://link.springer.com/article/10.1007/s10115-019-01379-6 Local low-rank Hawkes processes for modeling temporal user-item interactions] \n
 *Jin Shang*, and Mingxuan Sun \n
 in Knowledge and Information Systems (KAIS) (2019):  1-24.
-- [pubs/Effect.pdf Effect of folded and crumpled morphologies of graphene oxide platelets on the mechanical performances of polymer nanocomposites] \[[pubs/Sup.docx Supporting Information]\] \n
+- [https://www.sciencedirect.com/science/article/abs/pii/S003238611500436X Effect of folded and crumpled morphologies of graphene oxide platelets on the mechanical performances of polymer nanocomposites] \n #\[[pubs/Sup.docx Supporting Information]\] \n
 *Jin Shang*, Yuli Chen, et al. \n
 in Polymer 68 (2015): 131-139.
 
