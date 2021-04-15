@@ -2,11 +2,11 @@
 == Experiences
 
 == Working Experiences
-- Senior Engineer at [https://www.us1.dgene.com/ DGene Inc.], Baton Rouge, LA, March 2021 - present \n
+- Senior Research Engineer at [https://www.us1.dgene.com/ DGene Inc.], Baton Rouge, LA, March 2021 - present \n
 1. Image Inpainting: \n
 Present an efficient method for gate hair removal in the film, combining deep learning methods and traditional techniques such as line segment detection(LSD), edge detection, Poisson image editing, and optical flow. \n
 
-- Postdoc at [https://www.us1.dgene.com/ DGene Inc.], Baton Rouge, LA, Sept 2020 - March 2021 \n
+- Postdoctoral Researcher at [https://www.us1.dgene.com/ DGene Inc.], Baton Rouge, LA, Sept 2020 - March 2021 \n
 1. Image Segmentation: \n
 Present a novel foreground segmentation method with a high degree of accuracy for mask generation in 3D reconstruction, combining deep learning and traditional techniques such as joint bilateral up-sampling. PyTorch implementation for training and LibTorch implementation for testing. Achieving fast speed with high-resolution output by CUDA programming in the application. \n
 2. Non-rigid Registration: \n
