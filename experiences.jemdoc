@@ -10,7 +10,7 @@ Present an efficient method for gate hair removal in the film, combining deep le
 1. Image Segmentation: \n
 Present a novel foreground segmentation method with a high degree of accuracy for mask generation in 3D reconstruction, combining deep learning and traditional techniques such as joint bilateral up-sampling. PyTorch implementation for training and LibTorch implementation for testing. Achieving fast speed with high-resolution output by CUDA programming in the application. \n
 2. Non-rigid Registration: \n
-orking on non-rigid registration for continuous meshes. Considering several energy terms such as rigid, non-rigid, smooth, local, and temporal based on the traditional Iterative Closest Point(ICP) method. Using Levenberg-Marquardt algorithm for fast optimization.
+Working on non-rigid registration for continuous meshes. Considering several energy terms such as rigid, non-rigid, smooth, local, and temporal based on the traditional Iterative Closest Point(ICP) method. Using Levenberg-Marquardt algorithm for fast optimization.
 
 - Data Scientist Intern at [https://www.linkedin.com/company/particle-media-inc-/ Particle Media Inc.], Mountain View, CA, May 2019 - Aug 2019 \n
 Mentor: Dr. [https://sites.google.com/site/archkzhou/ Ke Zhou] \n
