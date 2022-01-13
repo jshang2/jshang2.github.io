@@ -3,14 +3,18 @@
 
 == Working Experiences
 - Senior Research Engineer at [https://www.us1.dgene.com/ DGene Inc.], Baton Rouge, LA, March 2021 - present \n
-1. Image and Video Inpainting: \n
-Present an efficient method for gate hair removal in the film, combining deep learning methods and traditional techniques such as line segment detection(LSD), edge detection, Poisson image editing, and optical flow. \n
+1. Image and Video Inpainting Library: \n
+Present an image and video inpainting library which can be used for several inpainting tasks such as object removal, old movie gate hair removal, and image inpainting. It contains several automatic detectors to generate refined masks for the different object to be removed including old movie gate hair and other specific object, and combines several traditional techniques and deep learning based models to fix the videos and images. Collaborated with MTI and use the library is used to fix some old movies' gate hair. Also used this library to fix an movie pilot, Functional Chaos, by Will Shivers, and have credit on that. The library is implemented by C/C++, OpenCV, Eigen, and LibTorch. \n
+2. Background Removal in Volumetric Capture Studio: \n
+Present a novel background removal method with a high degree of accuracy in a purpose-built volumetric capture stage, which could record performances and convert them into 3D sequences viewable from any angle. The algorithm beats current state-of-art in our situation, combines deep learning and traditional techniques such as joint bilateral up-sampling. Implement with PyTorch in training and deliver a proprietary software using C/C++, OpenCV, and LibTorch. Achieving fast speed with high-resolution output by adopting CUDA programming in the application.
 
 - Postdoctoral Researcher at [https://www.us1.dgene.com/ DGene Inc.], Baton Rouge, LA, Sept 2020 - March 2021 \n
-1. Image Segmentation: \n
-Present a novel foreground segmentation method with a high degree of accuracy for mask generation in 3D reconstruction, combining deep learning and traditional techniques such as joint bilateral up-sampling. PyTorch implementation for training and LibTorch implementation for testing. Achieving fast speed with high-resolution output by CUDA programming in the application. \n
-2. Non-rigid Registration: \n
+1. Non-rigid Registration: \n
 Working on non-rigid registration for continuous meshes. Considering several energy terms such as rigid, non-rigid, smooth, local, and temporal based on the traditional Iterative Closest Point(ICP) method. Using Levenberg-Marquardt algorithm for fast optimization.
+2. Image Spuer Resolution: \n
+Develop a learning-based model to deal with the super resolution with ringing artifacts in some old TV shows
+3. Image Style Transfer: \n
+Develop a learning-based model to handle style transfer between old movies and nowadays ones.
 
 - Data Scientist Intern at [https://www.linkedin.com/company/particle-media-inc-/ Particle Media Inc.], Mountain View, CA, May 2019 - Aug 2019 \n
 Mentor: Dr. [https://sites.google.com/site/archkzhou/ Ke Zhou] \n
@@ -19,7 +23,7 @@ Mentor: Dr. [https://sites.google.com/site/archkzhou/ Ke Zhou] \n
 3. Apply some recent deep learning-based FMs\/FFMs on the [http://www.newsbreakapp.com/ News Break] App(The No.1 news app on Android and No.2 on iOS in the 2nd quarter of 2019 reported by App Annie with 5M+ daily active users) ForYou datasets(10M instance per day) and evaluate the results which are measured by AUC and test logistic loss.
 
 == Professional Services
-- Program Committee\/Reviewer: NeurIPS 2019, EMNLP 2019, ACM Computing Surveys, KDD 2020, ICPR 2020, KDD 2021, Neural Networks, SDM 2022
+- Program Committee\/Reviewer: NeurIPS 2019, EMNLP 2019, ACM Computing Surveys, KDD 2020, ICPR 2020, KDD 2021, Neural Networks, SDM 2022, KDD 2022
 
 == Teaching Assistant Experiences
 - CSC 1253: Computer Science I with C\+\+, Fall 2016
