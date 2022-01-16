@@ -1,0 +1,68 @@
+# jemdoc: menu{MENU}{projects.html}, nofooter
+== Projects 
+
+=== Volumetric Capture Studio
+
+~~~
+{}{img_left}{gif/Yu.gif}{alt text}{480}{480}
+Digital human \n
+See clear [webm/Yu.webm video] \n
+~~~
+\n
+
+~~~
+{}{img_left}{gif/PPE.gif}{alt text}{480}{360}
+Digital human, PPE training \n
+See clear [webm/PPE.webm video] \n
+~~~
+\n
+
+=== Volumetric Capture Object Scan
+
+~~~
+{}{img_left}{gif/dragon.gif}{alt text}{397}{300}
+Relighting in Virtural Environment \n
+See clear [webm/dragon.webm video] \n
+~~~
+\n
+
+~~~
+{}{img_left}{gif/statue.gif}{alt text}{397}{300}
+3D Model Reconstruction \n
+See clear [webm/statue.webm video] \n
+~~~
+\n
+
+~~~
+{}{img_left}{gif/maho_all.gif}{alt text}{397}{300}
+Model Used in Unreal Engien \n
+See clear [webm/maho_all.webm video] \n
+~~~
+\n
+
+=== Volumetric Capture Face Dome
+
+~~~
+{}{img_left}{gif/face.gif}{alt text}{784}{240}
+Relighting in Virtural Environment \n
+See clear [webm/face.webm video] \n
+~~~
+\n
+
+=== Image and Video Inpainting Library Demo
+
+~~~
+{}{img_left}{gif/final_com.gif}{alt text}{768}{384}
+Old movie gate hair removal \n
+See clear [webm/final_com.webm video] \n
+~~~
+\n
+
+=== Face Data Generation for Specific Person
+
+~~~
+{}{img_left}{gif/lerp1.gif}{alt text}{768}{384}
+Emotion generation for specific person \n
+See clear [webm/lerp1.webm video] \n
+~~~
+\n
