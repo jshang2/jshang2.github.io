@@ -12,6 +12,14 @@ More [https://jshang2.github.io/projects.html Demo] \n
 \n
 ~~~
 \n
+~~~
+{}{img_left}{gif/file.gif}{alt text}{854}{480}
+Gatehair Revomal \n
+See clear [webm/file.webm video] \n
+More [https://jshang2.github.io/projects.html Demo] \n
+\n
+~~~
+\n
 : {2. Volumetric Capture:} Present a novel background removal method with a high degree of accuracy in a purpose-built volumetric capture stage, which could record performances and convert them into 3D sequences viewable from any angle. The algorithm beats current state-of-art methods in our situation, combines deep learning and traditional techniques such as joint bilateral upsampling. It is also suitable for small volumetric capture systems such as face dome and object scan. Implement with PyTorch in training and also deliver software using C\/C\+\+, OpenCV, and LibTorch. Achieving fast speed with high-resolution output by adopting CUDA programming in the application.\n
 ~~~
 {}{img_left}{gif/dancer_blue.gif}{alt text}{397}{300}
