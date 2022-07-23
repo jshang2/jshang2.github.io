@@ -4,6 +4,7 @@
 == Working Experiences
 - Applied Scientist II at [https://www.amazoncom/ Amazon], Seattle, WA, Jun. 2022 - present \n
 -- Machine learning on search and ranking, personalization, and softline.
+\n
 
 - Senior Engineer at [https://www.us1.dgene.com/ DGene Inc.], Baton Rouge, LA, Mar. 2021 - Jun. 2022 \n
 : {1. Image and Video Inpainting Library:} Present an image and video inpainting library which can be used for several inpainting tasks such as object removal, old movie gate hair removal, and image inpainting. It contains several automatic detectors to generate refined masks for the different objects to be removed including old movie gate hair and other specific objects. It also combines several traditional techniques (like optical flow, Poisson image editing, etc.) and deep learning-based models to fix the videos and images. Collaborated with [http://www.mtifilm.com/ MTI Film] and use the library is used to fix some old movies' gate hair. Also used this library to fix a movie pilot, Functional Chaos, by Will Shivers, and have credit on that. The library is implemented by C\/C\+\+, OpenCV, Eigen, and LibTorch. \n
