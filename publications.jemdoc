@@ -2,6 +2,11 @@
 == Publications 
 
 === Conference
+- [pubs/M3Net.pdf Learning attribute and class-specific representation duet for fine-grained fashion analysis] \n
+#- [https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_Learning_Attribute_and_Class-Specific_Representation_Duet_for_Fine-Grained_Fashion_Analysis_CVPR_2023_paper.pdf Learning attribute and class-specific representation duet for fine-grained fashion analysis] \n
+(research full paper, acceptance rate: 2360/9155=25.78\%) \n
+Yang Jiao, Yan Gao, Jingjing Meng, *Jin Shang*, and Yi Sun \n
+in Proc. of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada, Jun. 2023.
 - [pubs/list-wise.pdf List-wise fairness criterion for point processes] \[[https://github.com/jshang2/List-wise Code]\] \n
 #- [https://dl.acm.org/doi/10.1145/3394486.3403246 List-wise fairness criterion for point processes] \[[https://github.com/jshang2/List-wise Code]\] \n
 (research full paper, acceptance rate: 216/1279=16.89\%) \n
@@ -23,7 +28,7 @@ in Proc. of the IEEE International Conference on Data Mining (ICDM), Singapore, 
 *Jin Shang*, Mingxuan Sun, and Kevyn Collins-Thompson \n
 in Proc. of the IEEE International Conference on Data Mining (ICDM), Singapore, Nov. 2018.
 === Journal
-- [pubs/rescue.pdf A Machine Learning Approach for Detecting Rescue Requests from Social Media] \n
+- [pubs/rescue.pdf A machine learning approach for detecting rescue requests from social media] \n
 #- [https://www.mdpi.com/2220-9964/11/11/570 A Machine Learning Approach for Detecting Rescue Requests from Social Media] \n
 Zheye Wang, Nina S. N. Lam, Mingxuan Sun, Xiao Huang, *Jin Shang*, Lei Zou, Yue Wu, and Volodymyr V. Mihunov \n
 in ISPRS International Journal of Geo-Information. 2022; 11(11):570.
