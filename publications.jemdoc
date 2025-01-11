@@ -2,6 +2,12 @@
 == Publications 
 
 === Conference
+- [https://assets.amazon.science/6f/7c/c7e95c1141f7b81eab3d0d782443/transitivity-encoded-graph-attention-networks-for-complementary-item-recommendations.pdf Transitivity-encoded graph attention networks for complementary item recommendations] \n
+*Jin Shang*, Yang Jiao, Chenghuan Guo, Allen Sun, Yan Gao, Jia Liu, Michinari Momma, Itetsu Taru, Yi Sun \n
+in Proc. of the IEEE International Conference on Data Mining (ICDM), Abu Dhabi, Dec. 2024.
+- [https://assets.amazon.science/86/4f/5b9813d14ffdb8c061d250068348/multi-task-learning-on-heterogeneous-graph-neural-network-for-substitute-recommendation.pdf Multi-task learning on heterogeneous graph neural network for substitute recommendation] \n
+Tianchen Zhou, Michinari Momma, Chaosheng Dong, Fan Yang, Chenghuan Guo, *Jin Shang*, Jia Liu \n
+in Workshop on Mining and Learning with Graphs of ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Long Beach, USA, Aug. 2023.
 - [pubs/M3Net.pdf Learning attribute and class-specific representation duet for fine-grained fashion analysis] \[[pubs/Supplementary.pdf Supplementary]] \n
 #- [https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_Learning_Attribute_and_Class-Specific_Representation_Duet_for_Fine-Grained_Fashion_Analysis_CVPR_2023_paper.pdf Learning attribute and class-specific representation duet for fine-grained fashion analysis] \n
 (acceptance rate: 2360\/9155=25.78\%) \n
