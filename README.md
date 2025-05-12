@@ -10,4 +10,4 @@ https://jshang2.github.io/
 
 - Windows: The command prompt (`cmd`) or PowerShell does not automatically expand `*.jemdoc`. Instead, it passes the literal string `*.jemdoc` to the Python script, which does not match any files unless the script itself handles globbing. Instead of using `*.jemdoc`, you can specify files explicitly on Windows.
 
- `python jemdoc.py file1.jemdoc file2.jemdoc`
+ `python jem\jemdoc.py file1.jemdoc file2.jemdoc`
