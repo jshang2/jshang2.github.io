@@ -25,7 +25,17 @@ at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
 #- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
 
 == About me
-I'm currently working at [https://www.amazon.com/ Amazon] as an Applied Scientist. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, natural language processing, and fairness.
+I am currently an Applied Scientist at [https://www.amazon.com/ Amazon], where I focus on developing Generative AI models and Large Language Models (LLMs) to improve the Amazon customer experience. I earned my Ph.D. in Computer Science from Louisiana State University, advised by Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun].
+
+At Amazon, my work spans both production and research:
+
+1. Production Impact:
+I’ve contributed to large-scale real-time and offline systems, including semantic search for ads retrieval, embedding-based retrieval, LLM-powered product recommendations, and generative-augmented retrieval. These efforts have collectively driven over \$500M in annualized sponsored products advertising revenue and over \$700M in annualized order product sales (OPS).
+
+2. Research Contributions:
+I serve as the primary point of contact (POC) for several research initiatives and have published multiple papers at both external academic conferences and Amazon's internal research venues.
+
+#I'm currently working at [https://www.amazon.com/ Amazon] as an Applied Scientist. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, natural language processing, and fairness.
 
 == Education 
 - Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Aug. 2020
