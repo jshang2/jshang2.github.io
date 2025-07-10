@@ -9,7 +9,7 @@ I focus on developing Generative AI models and Large Language Models (LLMs) to i
 :{2. Research:} I serve as the primary point of contact (POC) for several research initiatives and have published multiple papers at both external academic conferences and Amazon's internal research venues. \n
 \n
 
-- Senior Engineer at [https://www.us1.dgene.com/ DGene Inc.], Baton Rouge, LA, Mar. 2021 - Jun. 2022 \n
+- Senior Engineer at [https://www.dgene.com/index.htm DGene Inc.], Baton Rouge, LA, Mar. 2021 - Jun. 2022 \n
 : {1. Image and Video Inpainting Library:} Present an image and video inpainting library which can be used for several inpainting tasks such as object removal, old movie gate hair removal, and image inpainting. It contains several automatic detectors to generate refined masks for the different objects to be removed including old movie gate hair and other specific objects. It also combines several traditional techniques (like optical flow, Poisson image editing, etc.) and deep learning-based models to fix the videos and images. Collaborated with [http://www.mtifilm.com/ MTI Film] and use the library is used to fix some old movies' gate hair. Also used this library to fix a movie pilot, Functional Chaos, by Will Shivers, and have credit on that. The library is implemented by C\/C\+\+, OpenCV, Eigen, and LibTorch. \n
 ~~~
 {}{img_left}{gif/compare_3f.gif}{alt text}{427}{480}
@@ -37,14 +37,14 @@ More [https://jshang2.github.io/projects.html Demo] \n
 ~~~
 \n
 
-- Postdoctoral Researcher at [https://www.us1.dgene.com/ DGene Inc.], Baton Rouge, LA, Sep. 2020 - Mar. 2021 \n
+- Postdoctoral Researcher at [https://www.dgene.com/index.htm DGene Inc.], Baton Rouge, LA, Sep. 2020 - Mar. 2021 \n
 -- Working on non-rigid registration for continuous meshes. Considering several energy terms such as rigid, non-rigid, smooth, local, and temporal based on the traditional Iterative Closest Point(ICP) method. Using Levenberg-Marquardt algorithm for fast optimization. \n
 -- Develop a learning-based model to deal with the image super-resolution with ringing artifacts in some old TV shows. \n
 -- Develop a learning-based model to handle image style transfer between old movies and nowadays ones.
 \n
 
 - Data Scientist Intern at [https://www.linkedin.com/company/particle-media-inc-/ Particle Media Inc.], Mountain View, CA, May. 2019 - Aug. 2019 \n
-Mentor: Dr. [https://sites.google.com/site/archkzhou/ Ke Zhou] \n
+Mentor: Dr. [https://www.linkedin.com/in/archkzhou/ Ke Zhou] \n
 -- Present a novel outer product-based deep Factorization Machine(FM) that achieves the highest improvements among all the state-of-art baselines on the Click-through Rate(CTR) prediction task. \n
 -- Present a fast approximate nearest neighbor(ANN) search method based on Hierarchical Navigable Small World(HNSW) algorithm with multilayer perceptron(MLP) distance to make the deep learning based FMs\/FFMs applicable to the online serving system. \n
 -- Apply some recent deep learning-based FMs\/FFMs on the [http://www.newsbreakapp.com/ News Break] App(The No.1 news app on Android and No.2 on iOS in the 2nd quarter of 2019 reported by App Annie with 5M+ daily active users) ForYou datasets(10M instance per day) and evaluate the results which are measured by AUC and test logistic loss.
