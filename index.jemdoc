@@ -30,7 +30,7 @@ I am currently an Applied Scientist at [https://www.amazon.com/ Amazon], where I
 At Amazon, my work spans both production and research:
 
 1. Production Impact:
-I’ve contributed to large-scale real-time and offline systems, including training a generative sequential recommendation LLM with semantic IDs, delivering a generation-augmented retrieval system for product recommendation, and developing a contextual multi-objective embedding–based retrieval model. These efforts have collectively driven over \$500M in annualized sponsored products advertising revenue and over \$700M in annualized order product sales (OPS).
+I’ve contributed to large-scale real-time and offline systems, including training a generative sequential recommendation LLM with semantic IDs, delivering a generation-augmented retrieval system for product recommendation, and developing a contextual multi-objective embedding–based retrieval model. These GenAI-based search and recommendation models and algorithms have been deployed across Amazon Search and Amazon Advertising, collectively generating over \$500M in annualized sponsored products advertising revenue and over \$700M in annualized order product sales (OPS).
 
 2. Research Contributions:
 I serve as the primary point of contact (POC) for several patent and research initiatives and have published multiple papers at both external academic conferences and Amazon's internal research venues.
