@@ -4,8 +4,10 @@
 ~~~
 {}{img_left}{photos/bio4.jpeg}{alt text}{326px}{245px}
 [https://jshang2.github.io Jin Shang], Ph.D. \n 
-Applied Scientist II at [https://www.amazon.com/ Amazon] \n
-San Diego, California, United States \n
+Principal Machine Learning Engineer at [https://www.paramount.com/ Paramount] \n
+Irvine, California, United States \n
+#Applied Scientist II at [https://www.amazon.com/ Amazon] \n
+#San Diego, California, United States \n
 \n
 Email: astrostell@gmail.com \[[https://scholar.google.com/citations?user=CIfBuzcAAAAJ&hl=en Google Scholar]\] \n
 ~~~
@@ -25,15 +27,17 @@ at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
 #- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
 
 == About me
-I am currently an Applied Scientist at [https://www.amazon.com/ Amazon], where I focus on developing GenAI-based search and recommendation models and algorithms for both Amazon Search and Amazon Advertising. I earned my Ph.D. in Computer Science from Louisiana State University, advised by Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun].
+I am currently an Principal Machine Learning Engineer at [https://www.paramount.com/ Paramount], where I focus on developing personalized foundation models for Paramount streaming. I earned my Ph.D. in Computer Science from Louisiana State University, advised by Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun].
 
-At Amazon, my work spans both production and research:
+#I am currently an Applied Scientist at [https://www.amazon.com/ Amazon], where I focus on developing GenAI-based search and recommendation models and algorithms for both Amazon Search and Amazon Advertising. I earned my Ph.D. in Computer Science from Louisiana State University, advised by Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun].
 
-1. Production Impact:
-I’ve contributed to large-scale real-time and offline systems, including training a generative sequential recommendation LLM with semantic IDs, delivering a generation-augmented retrieval system for product recommendation, and developing a contextual multi-objective embedding–based retrieval model. These GenAI-based search and recommendation models and algorithms have been deployed across Amazon Search and Amazon Advertising, collectively generating over \$500M in annualized sponsored products advertising revenue and over \$700M in annualized order product sales (OPS).
+#At Amazon, my work spans both production and research:
 
-2. Research Contributions:
-I serve as the primary point of contact (POC) for several patent and research initiatives and have published multiple papers at both external academic conferences and Amazon's internal research venues.
+#1. Production Impact:
+#I’ve contributed to large-scale real-time and offline systems, including training a generative sequential recommendation LLM with semantic IDs, delivering a generation-augmented retrieval system for product recommendation, and developing a contextual multi-objective embedding–based retrieval model. These GenAI-based search and recommendation models and algorithms have been deployed across Amazon Search and Amazon Advertising, collectively generating over \$500M in annualized sponsored products advertising revenue and over \$700M in annualized order product sales (OPS).
+
+#2. Research Contributions:
+#I serve as the primary point of contact (POC) for several patent and research initiatives and have published multiple papers at both external academic conferences and Amazon's internal research venues.
 
 #I'm currently working at [https://www.amazon.com/ Amazon] as an Applied Scientist. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, natural language processing, and fairness.
 
