@@ -3,7 +3,7 @@
 
 == Working Experiences
 - Principal Machine Learning Engineer at [https://www.paramount.com/ Paramount], Irvine, CA, Jul. 2026 - present \n
--- *Gen-AI based Recsys*: Building personalized foundation models for Paramount streaming. \n
+-- *Generative Recommender*: Building personalized foundation models for Paramount streaming. \n
 
 - Applied Scientist II at [https://www.amazon.com/ Amazon], Seattle, WA, Jun. 2022 - Jul. 2026 \n
 -- *Production Impact*: I’ve contributed to large-scale real-time and offline systems, including training a generative recommender with semantic IDs, delivering a generation-augmented retrieval system for product recommendation, and developing a contextual multi-objective embedding–based retrieval model. These GenAI-based search and recommendation models and algorithms have been deployed across Amazon Search and Amazon Advertising, collectively generating over \$500M in annualized sponsored products advertising revenue and over \$700M in annualized order product sales (OPS). \n
