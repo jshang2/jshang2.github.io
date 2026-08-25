@@ -2,15 +2,18 @@
 == Publications 
 
 === Conference
-- [https://openreview.net/pdf?id=yquA9GIhOV Divide and orthogonalize: efficient continual learning with local model space projection]\n
+- [pubs/divide.pdf Divide and orthogonalize: efficient continual learning with local model space projection]\n
+#- [https://openreview.net/pdf?id=yquA9GIhOV Divide and orthogonalize: efficient continual learning with local model space projection]\n
 (acceptance rate: 230/750=30.7%) \n
 *Jin Shang*, Simone Shao, Tian Tong, Fan Yang, Yetian Chen, Yang Jiao, Jia Liu, Yan Gao \n
 in Proc. of the Conference on Uncertainty in Artificial Intelligence (UAI), Rio de Janeiro, July, 2025.
-- [https://assets.amazon.science/6f/7c/c7e95c1141f7b81eab3d0d782443/transitivity-encoded-graph-attention-networks-for-complementary-item-recommendations.pdf Transitivity-encoded graph attention networks for complementary item recommendations] \n
+- [pubs/transitivity.pdf Transitivity-encoded graph attention networks for complementary item recommendations] \n
+#- [https://cdn.amazon.science/6f/7c/c7e95c1141f7b81eab3d0d782443/transitivity-encoded-graph-attention-networks-for-complementary-item-recommendations.pdf Transitivity-encoded graph attention networks for complementary item recommendations] \n
 (regular paper, acceptance rate: 66/604=10.93%) \n
 *Jin Shang*, Yang Jiao, Chenghuan Guo, Allen Sun, Yan Gao, Jia Liu, Michinari Momma, Itetsu Taru, Yi Sun \n
 in Proc. of the IEEE International Conference on Data Mining (ICDM), Abu Dhabi, Dec. 2024.
-- [https://assets.amazon.science/86/4f/5b9813d14ffdb8c061d250068348/multi-task-learning-on-heterogeneous-graph-neural-network-for-substitute-recommendation.pdf Multi-task learning on heterogeneous graph neural network for substitute recommendation] \n
+- [pubs/multi-task.pdf Multi-task learning on heterogeneous graph neural network for substitute recommendation] \n
+#- [https://cdn.amazon.science/86/4f/5b9813d14ffdb8c061d250068348/multi-task-learning-on-heterogeneous-graph-neural-network-for-substitute-recommendation.pdf Multi-task learning on heterogeneous graph neural network for substitute recommendation] \n
 Tianchen Zhou, Michinari Momma, Chaosheng Dong, Fan Yang, Chenghuan Guo, *Jin Shang*, Jia Liu \n
 in Workshop on Mining and Learning with Graphs of ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Long Beach, USA, Aug. 2023.
 - [pubs/M3Net.pdf Learning attribute and class-specific representation duet for fine-grained fashion analysis] \[[pubs/Supplementary.pdf Supplementary]] \n
@@ -43,8 +46,8 @@ in Proc. of the IEEE International Conference on Data Mining (ICDM), Singapore, 
 #- [https://www.mdpi.com/2220-9964/11/11/570 A Machine Learning Approach for Detecting Rescue Requests from Social Media] \n
 Zheye Wang, Nina S. N. Lam, Mingxuan Sun, Xiao Huang, *Jin Shang*, Lei Zou, Yue Wu, and Volodymyr V. Mihunov \n
 in ISPRS International Journal of Geo-Information. 2022; 11(11):570.
-#- [pubs/10.1007_s10115-019-01379-6.pdf Local low-rank Hawkes processes for modeling temporal user-item interactions] \n
-- [https://link.springer.com/epdf/10.1007/s10115-019-01379-6?author_access_token=s_nsMmaalPrdXl_TOVnRvPe4RwlQNchNByi7wbcMAY5AKah_lrhoWQI_BWqaN1rdy485EoRHGCUV0XgpZKHYKnv9xw6wKjb9TKLudFy8YJN97SZc5Wk21ulu7kVceZPdNOcLNvsjTEu3D0Z7_GL_eQ%3D%3D Local low-rank Hawkes processes for temporal user-item interactions] \n 
+- [pubs/local-low-rank-KAIS.pdf Local low-rank Hawkes processes for modeling temporal user-item interactions] \n
+#- [https://link.springer.com/epdf/10.1007/s10115-019-01379-6?author_access_token=s_nsMmaalPrdXl_TOVnRvPe4RwlQNchNByi7wbcMAY5AKah_lrhoWQI_BWqaN1rdy485EoRHGCUV0XgpZKHYKnv9xw6wKjb9TKLudFy8YJN97SZc5Wk21ulu7kVceZPdNOcLNvsjTEu3D0Z7_GL_eQ%3D%3D Local low-rank Hawkes processes for temporal user-item interactions] \n 
 #- [https://link.springer.com/article/10.1007/s10115-019-01379-6 Local low-rank Hawkes processes for modeling temporal user-item interactions] \n
 *Jin Shang*, and Mingxuan Sun \n
 in Knowledge and Information Systems (KAIS) (2019):  1-24.
